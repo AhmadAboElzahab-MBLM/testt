@@ -1,5 +1,7 @@
+"use client";
+
 import Image from "next/image";
-import Select from "react-select/base";
+import Select from "react-select";
 
 export default function Home() {
   return (
