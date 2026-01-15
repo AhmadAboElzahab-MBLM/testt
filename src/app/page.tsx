@@ -1,8 +1,3 @@
-"use client";
-
-import Image from "next/image";
-import Select from "react-select";
-
 export default function Home() {
   const lang = process.env.NEXT_PUBLIC_LANG;
 
